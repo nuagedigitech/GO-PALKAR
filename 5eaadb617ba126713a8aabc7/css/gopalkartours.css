@@ -1749,6 +1749,11 @@
     -ms-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+  .collection-item {
+    width: 320px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   .nav-mob-sub-div {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
