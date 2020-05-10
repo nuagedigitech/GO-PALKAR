@@ -1734,6 +1734,12 @@
     background-size: auto 100vh;
     background-repeat: repeat-y;
   }
+  .body-2 {
+    background-image: url("https://horpadmi.sirv.com/Website/5eab0d1248eb6e01f9a7707a_varanasi-787734_830bg.jpg");
+    background-position: 50% 50%;
+    background-size: auto 100vh;
+    background-repeat: repeat-y;
+  }
   .div-block-8 {
     width: auto;
     height: 400px;
